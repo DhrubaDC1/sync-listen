@@ -1,0 +1,6 @@
+{
+  "name": "SyncListen",
+  "description": "Serverless real-time synchronized music and video playback using WebRTC.",
+  "requestFramePermissions": ["autoplay", "encrypted-media"],
+  "majorCapabilities": []
+}
